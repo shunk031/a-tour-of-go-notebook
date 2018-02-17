@@ -1,5 +1,7 @@
 # A Tour of Go Notebook
 
+[A tour of go](https://go-tour-jp.appspot.com/list) in Jupyter notebook using [gophernotes](https://github.com/gopherdata/gophernotes)
+
 ## Setup
 
 - for MacOS
