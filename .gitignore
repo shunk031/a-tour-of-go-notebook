@@ -1,0 +1,3 @@
+# gitignore for a-tour-of-go-notebook
+
+.ipynb_checkpoints/
